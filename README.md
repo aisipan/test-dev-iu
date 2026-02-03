@@ -16,8 +16,8 @@ Esa adalah seorang pecinta hewan yang sangat menyayangi peliharaannya. Di rumahn
 ##### Ketentuan pengerjaan #####
 1. Kerjakan dengan sesuai pemahaman masing-masing
 2. Kerjakan sesuai dengan bidang yang akan di apply
-    - jika frontend maka silahkan kerjakan dengan bahasa pemograman frontend seperti react.js, javascript. Di utamakan menggunakan tampilan
-    - jika backend maka silahkan kerjakan dengan bahasa pemograman backend seperti PHP, node.js, Golang.
+    - jika frontend maka silahkan kerjakan dengan bahasa pemograman frontend seperti react.js, javascript. Di utamakan menggunakan tampilan.
+    - jika backend maka silahkan kerjakan dengan bahasa pemograman backend seperti PHP, node.js, Golang dan buatkan dalam bentuk REST API.
     - jika mobile maka silahkan kerjakan dengan bahasa pemograman mobile seperti react-native, flutter. Di utamakan menggunakan tampilan
 3. Jika menggunakan **ChatGPT** atau sejenisnya untuk membantu, harap sertakan **prompt** yang digunakan.
 4. Deadline 3 hari dari pesan test dikirim
@@ -25,3 +25,4 @@ Esa adalah seorang pecinta hewan yang sangat menyayangi peliharaannya. Di rumahn
 6. Kumpulkan dengan nama repository github test-dev-frontend or test-dev-backend or test-dev-mobile dan invite akun ibnuhamdani11, aisipan, dan farhantock, satori97
 
 ##### Good Luck #####
+
